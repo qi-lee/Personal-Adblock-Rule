@@ -52,6 +52,17 @@ tieba.baidu.com###j_p_postlist>div.l_post_bright:has(a.j_click_stats.img_wrap)
 ||tb1.bdstatic.com/??/tb/_/game_rank_in_head_$script
 ||tb1.bdstatic.com/tb/cms/frs/bg/$image
 !----------------------通用、广告联盟站点-----------------------
+||91lmgg.com/
+||4438*.com/
+||imgur.com/
+||kpl015.com/img/*.js
+||*baidu-taobao-av.com/aaa/*
+||*baidu-taobao-av.com/js/*
+*/template/pc/bb.js
+||*sinaimg.cn/
+/images/pic/716.gif
+||pic.sina-img.club/sepic/images/*.gif
+##.yirenwang
 ||ad.
 */ad.
 */ad/$domain=~www.xingk.cc|~iqiyi.com
